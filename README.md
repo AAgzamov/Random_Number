@@ -7,6 +7,7 @@ In this simple console game you have to guess the number that will be generated 
 # Requirements:
    
    1. 64-bit operating system.
+   2. Microsoft Visual Studio (code editor)
 
 # Instructions:
   
