@@ -12,7 +12,7 @@ In this simple console game you have to guess the number that will be generated 
 # Instruction:
   
   1. Download the Random_Number.rar file.
-  2. Unarchive the .rar file.
+  2. Unarchive the Random_Number.rar file.
   3. Open Random_Number --> x64 --> Debug --> Random_Number.exe.
 
 
