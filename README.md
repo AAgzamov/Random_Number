@@ -9,7 +9,7 @@ In this simple console game you have to guess the number that will be generated 
    1. 64-bit operating system.
    2. Microsoft Visual Studio (code editor)
 
-# Instructions:
+# Instruction:
   
   1. Download the Random_Number.rar file.
   2. Unarchive the .rar file.
