@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Amirkhon\PROGRAMMING\C++\MY_PROJECTS\Random_Number\Main.cpp(27,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Random_Number.vcxproj -> C:\Amirkhon\PROGRAMMING\C++\MY_PROJECTS\Random_Number\x64\Debug\Random_Number.exe
