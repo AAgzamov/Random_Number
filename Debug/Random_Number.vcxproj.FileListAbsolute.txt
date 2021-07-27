@@ -1,0 +1,2 @@
+C:\Amirkhon\PROGRAMMING\C++\MY_PROJECTS\Random_Number\Debug\Random_Number.exe
+C:\Amirkhon\PROGRAMMING\C++\MY_PROJECTS\Random_Number\Debug\Random_Number.pdb
